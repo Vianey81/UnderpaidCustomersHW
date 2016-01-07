@@ -1,3 +1,4 @@
+#Homework Pair Programming emilymlam & vianey81
 def customer_expectation(customer_name,customer_melons,customer_paid):
     melon_cost = 1.00
     customer_expected = customer_melons * melon_cost
